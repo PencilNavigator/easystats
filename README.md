@@ -1,7 +1,5 @@
 # Freenom-Workers
 
-
-
 通过Cloudflare Workers自动续期Freenom域名(.cf .ga .gq .ml .tk)。
 
 Renew your Freenom domain (.cf .ga .gq .ml .tk) automaticly with Cloudflare Workers.
@@ -19,7 +17,7 @@ Renew your Freenom domain (.cf .ga .gq .ml .tk) automaticly with Cloudflare Work
 
 在刚刚创建的Workers界面，选择“快速编辑”。
 
-在编辑界面，粘贴worker.js内代码，点击保存。
+在编辑界面，粘贴worker.js内代码，点击保存。(For English Users, Use worker_EN.js instead.)
 
 返回刚刚创建的Workers页面，选择“设置”，再选择“变量”。
 
@@ -41,13 +39,9 @@ Renew your Freenom domain (.cf .ga .gq .ml .tk) automaticly with Cloudflare Work
 执行成功后，通过邮件送信/TelegramBot/DiscordBot发送执行结果。
 
 # 类似项目
-https://github.com/luolongfei/freenom
+https://github.com/luolongfei/freenom (PHP)
 
-https://github.com/mkorthof/freenom-script
-
-https://github.com/Oreomeow/freenom-py
-
-https://github.com/RouRouX/docker-freenom-automatic-renewal
+https://github.com/Oreomeow/freenom-py (Python)
 
 # LICENSE
 可能是AGPL-V3.0？
