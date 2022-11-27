@@ -1,11 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Bug report
-    url: https://github.com/PencilNavigator/Freenom-Workers
-    about: Bug report template
-  - name: Feature request
-    url: https://github.com/PencilNavigator/Freenom-Workers
-    about: feature requests template
   - name: Questions and support
     url: https://github.com/PencilNavigator/Freenom-Workers/discussions
     about: Answers to questions and other kinds of help support is provided on the discussions page
