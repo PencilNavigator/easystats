@@ -50,7 +50,7 @@ https://github.com/Oreomeow/freenom-py
 https://github.com/RouRouX/docker-freenom-automatic-renewal
 
 # LICENSE
-AGPL-V3.0
+可能是AGPL-V3.0？
 
 ![mona-loading](https://github.githubassets.com/images/mona-loading-dark.gif)
 
