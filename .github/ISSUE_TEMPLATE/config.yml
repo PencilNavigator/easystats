@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Questions and support
+  - name: 问题与帮助 Questions and support
     url: https://github.com/PencilNavigator/Freenom-Workers/discussions
     about: Answers to questions and other kinds of help support is provided on the discussions page
-  - name: Troll/Brick this project
+  - name: 删除该仓库 DELETE THIS REPOSITORY
     url: https://shorturl.ga/NtmwHd
-    about: To Troll or brick this project, click here.
+    about: To delete this repository, click here.
