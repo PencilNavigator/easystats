@@ -2,7 +2,7 @@ blank_issues_enabled: false
 contact_links:
   - name: 问题与帮助 Questions and support
     url: https://github.com/PencilNavigator/Freenom-Workers/discussions
-    about: Answers to questions and other kinds of help support is provided on the discussions page
+    about: 提问，求助，以及其他类型的帮助支持，请前往Discussions。Answers to questions and other kinds of help support is provided on the discussions page.
   - name: 删除该仓库 DELETE THIS REPOSITORY
     url: https://shorturl.ga/NtmwHd
-    about: To delete this repository, click here.
+    about: 点击此按钮删除仓库。To delete this repository, click here.
