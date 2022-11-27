@@ -6,7 +6,6 @@ Renew your Freenom domain (.cf .ga .gq .ml .tk) automaticly with Cloudflare Work
 
 喜欢这个项目？给颗Star吧！Like this project？ Star it!
 
-
 # 部署 Set-Up
 
 打开https://dash.cloudflare.com
@@ -32,8 +31,9 @@ Renew your Freenom domain (.cf .ga .gq .ml .tk) automaticly with Cloudflare Work
 
 # 测试
 
-访问刚刚部署的Workers服务的域名（一般URL为：服务名.设置子域.workers.dev)。顺利的话，你将看到你账户内所有域名的剩余日期。
+（直接访问域名）访问刚刚部署的Workers服务的域名（一般URL为：服务名.设置子域.workers.dev)。顺利的话，你将看到你账户内所有域名的剩余日期。（workers.dev域名在中国内地污染严重，建议绑定一个自己的域名进行访问）。
 
+（触发Cron）进入“快速编辑”，选择“设定时间”，再选择“触发计划的事件”。查看下方Console是否有输出域名剩余日期。
 
 # 待实现的功能
 执行成功后，通过邮件送信/TelegramBot/DiscordBot发送执行结果。
@@ -44,7 +44,7 @@ https://github.com/luolongfei/freenom (PHP)
 https://github.com/Oreomeow/freenom-py (Python)
 
 # LICENSE
-可能是AGPL-V3.0？
+目前没有决定好用什么LICENSE，可能会用AGPL-V3.0？
 
 ![mona-loading](https://github.githubassets.com/images/mona-loading-dark.gif)
 
