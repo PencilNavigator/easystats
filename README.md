@@ -44,7 +44,7 @@ https://github.com/luolongfei/freenom (PHP)
 https://github.com/Oreomeow/freenom-py (Python)
 
 # LICENSE
-目前没有决定好用什么LICENSE，可能会用AGPL-V3.0？
+目前没有决定好用什么LICENSE.
 
 ![mona-loading](https://github.githubassets.com/images/mona-loading-dark.gif)
 
