@@ -2,7 +2,7 @@
 name: 故障报告Bug report
 about: 上报故障 Reporting a Bug
 title: ''
-labels: bug 故障
+labels: bug 故障, unconfirmed 未确认
 assignees: ''
 
 ---

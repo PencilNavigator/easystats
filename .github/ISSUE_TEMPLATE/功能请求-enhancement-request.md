@@ -2,7 +2,7 @@
 name: 功能请求 enhancement request
 about: Suggest an enhancement for this project
 title: ''
-labels: enhancement 功能请求
+labels: enhancement 功能请求, unconfirmed 未确认
 assignees: ''
 
 ---
