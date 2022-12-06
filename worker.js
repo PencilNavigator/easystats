@@ -114,14 +114,16 @@ async function handleRequest() {
    const domainHtml = []
    for (const domain in domains) {
       const days = domains[domain].days
-      domainHtml.push(`<p>${domain} 还有 ${days} 天更新`)
+      domainHtml.push(`<p>${domain} 还有 ${days} 天更新</p>`)
    }
    const html = `
    <!DOCTYPE html>
    <html>
    <head><title>Freenom Renew Workers</title></head>
-   <body>本项目仓库地址：https://github.com/PencilNavigator/Freenom-Workers</body>
-   <body>${domainHtml.join('')}</body>
+   <body>
+   本项目仓库地址：https://github.com/PencilNavigator/Freenom-Workers
+   ${domainHtml.join('')}
+   </body>
    </html>
    `
    return new Response(html, {
