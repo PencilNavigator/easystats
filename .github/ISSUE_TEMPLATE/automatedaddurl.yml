@@ -1,0 +1,38 @@
+name: Request adding a New URL (automated)
+description: Adds a new URL for github-readme-stats, but automated (have to submit markdown; doesn't require manual approval)
+labels: Add-URL, Pending
+title: New URL Request
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please use the following format:
+        ```markdown
+        \`\`\`
+        https://your-url.com
+        \`\`\`
+        By [Your Name](https://github.com/your-username)
+        ```
+        
+  - type: checkboxes
+    attributes:
+      label: Prerequisites
+      description: |
+        Please confirm that you have done the following action.
+      options:
+        - label: I have followed the markdown format described above.
+          required: true
+
+  - type: input
+    attributes:
+      label:
+      placeholder:
+      description:
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Additional content
+      description: Anything you want to add.
+    validations:
