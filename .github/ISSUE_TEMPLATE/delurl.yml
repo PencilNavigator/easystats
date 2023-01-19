@@ -1,0 +1,50 @@
+name: Delete URL
+description: Delete a existing URL on github-readme-stats
+labels: Del-URL, Pending
+title: Delete URL Request
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Help the community by providing your github-readme-stats URL.
+        
+  - type: checkboxes
+    attributes:
+      label: Prerequisites
+      description: |
+        Please confirm that you have done the following action.
+      options:
+        - label: I have a valid reason to delete this URL.
+          required: true
+
+  - type: input
+    attributes:
+      label: URL
+      placeholder: e.g. https://github-readme-stats.vercel.app
+      description: The URL you request to delete.
+    validations:
+      required: true
+
+  - type: dropdown
+    attributes:
+      label: Reason to remove
+      description: The reason to delete the URL.
+      options:
+        - Link is not working anymore.
+        - I do not want to provide the url anymore.
+        - Vercel instance is overloading/PAT is exhaused.
+        - Other reasons. Please explain below.
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Other
+      placeholder: e.g. I want to delete because...
+      description: If you choosed "other" please give reasons here.
+
+  - type: textarea
+    attributes:
+      label: Additional content
+      description: Anything you want to add.
+    validations:

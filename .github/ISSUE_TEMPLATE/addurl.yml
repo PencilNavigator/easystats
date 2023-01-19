@@ -1,0 +1,48 @@
+name: Add URL
+description: Add a usable URL for github-readme-stats
+labels: Add-URL, Pending
+title: New URL Request
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Help the community by providing your github-readme-stats URL.
+        
+  - type: checkboxes
+    attributes:
+      label: Prerequisites
+      description: |
+        Please confirm that you have done the following action.
+      options:
+        - label: I have checked that this URL works.
+          required: true
+
+  - type: input
+    attributes:
+      label: URL
+      placeholder: e.g. https://github-readme-stats.vercel.app
+      description: The URL you request to add.
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: URL Provider's Name
+      placeholder: e.g. Pencil Navigator
+      description: name of the URL provider.
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: URL Provider's Github profile link
+      placeholder: e.g. https://github.com/PencilNavigator
+      description: link to the provider's Github profile link.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Additional content
+      description: Anything you want to add.
+    validations:
