@@ -7,12 +7,12 @@ body:
     attributes:
       value: |
         Please use the following format:
-        ```markdown
-        \```
-        https://your-url.com
-        \```
-        By [Your Name](https://github.com/your-username)
+        ````markdown
         ```
+        https://your-url.com
+        ```
+        By [Your Name](https://github.com/your-username)
+        ````
         
   - type: checkboxes
     attributes:
