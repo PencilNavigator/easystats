@@ -3,7 +3,7 @@
 ```
 https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app
 ``` 
-By Unknown 
+By [Rick Staa](https://github.com/rickstaa) 
 
 ```
 https://github-readme-stats-ruby-one.vercel.app
