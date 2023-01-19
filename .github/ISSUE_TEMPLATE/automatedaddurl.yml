@@ -6,13 +6,15 @@ body:
   - type: markdown
     attributes:
       value: |
-        Please use the following format:
+        Please use the following format in the field below:
+        `````markdown
         ````markdown
         ```
         https://your-url.com
         ```
         By [Your Name](https://github.com/your-username)
         ````
+        `````
         
   - type: checkboxes
     attributes:
