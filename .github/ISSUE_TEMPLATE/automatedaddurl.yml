@@ -30,9 +30,3 @@ body:
       description:
     validations:
       required: true
-
-  - type: textarea
-    attributes:
-      label: Additional content
-      description: Anything you want to add.
-    validations:
