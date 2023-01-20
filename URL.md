@@ -6,9 +6,9 @@ https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app
 By [Rick Staa](https://github.com/rickstaa)
 
 ```
-https://github-readme-stats-ruby-one.vercel.app
+https://readme-stats.jonas-bernard.dev
 ``` 
-By [Claudio Tancredi](https://github.com/claudiotancredi)
+By Unknown
   
 ```
 https://github-readme-stats-ten-gilt.vercel.app
@@ -34,5 +34,61 @@ By [Kevin Zhong](https://github.com/CLCK0622)
 https://github-readme-stats-sigma-five.vercel.app
 ``` 
 By Unknown
+
+```
+https://readme-stats.nishithpshetty.tk
+``` 
+By Unknown
+
+```
+https://readme-stats.nozemi.io
+``` 
+By Unknown
+
+```
+https://readme-stats.trle5.xyz
+``` 
+By Unknown
+
+```
+https://readme-stats.kristn.co.uk
+``` 
+By Unknown
+
+```
+https://readme-stats.warengonzaga.com
+``` 
+By Unknown
+
+```
+https://readme-stats-breno.vercel.app
+``` 
+By Unknown
+
+```
+https://readme-stats.kyrie25.me
+``` 
+By Unknown
+
+```
+https://readme-stats-hx0q25z93-m-chan.vercel.app
+``` 
+By Unknown
+
+```
+https://readme-stats.jader.me
+``` 
+By Unknown
+
+```
+http://readme-stats.vercel.danielmolina.me
+``` 
+By Unknown
+
+```
+https://github-readme-stats-eight-theta.vercel.app
+``` 
+By Unknown
+
 
 ### Thanks to all Github users who kindly provided their link to use!)
