@@ -88,17 +88,12 @@ https://readme-stats.jader.me
 By Unknown
 
 ```
-http://readme-stats.vercel.danielmolina.me
+https://readme-stats.vercel.danielmolina.me
 ``` 
 By Unknown
 
 ```
 https://github-readme-stats-eight-theta.vercel.app
-``` 
-By Unknown
-
-```
-https://shaurya-shah.vercel.app
 ``` 
 By Unknown
 
