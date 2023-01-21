@@ -13,6 +13,8 @@ Check [URL.md](https://github.com/PencilNavigator/readme-stats-URL/blob/master/U
 
 Check [URL](https://github.com/PencilNavigator/readme-stats-URL/blob/master/URL) for machine readable version.
 
-I can not guarentee that all links work, since all links are collected from the internet by a bot/provided by the community.
+URL.json is for the Dynamic URL service.
+
+#### Note：I can not guarentee that all links work, since all links are collected from the internet by a bot/provided by the community.
 
 If you found a link not working, Please submit an issue!
