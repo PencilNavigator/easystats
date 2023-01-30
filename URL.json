@@ -20,9 +20,9 @@
         "https://readme-stats.jader.me/$1",
         "https://readme-stats.vercel.danielmolina.me/$1",
         "https://github-readme-stats-eight-theta.vercel.app/$1",
-        "https://readme-stats-lyart-nine.vercel.app/$1"
-        "https://readme-stats-indol-theta.vercel.app/$1"
-
+        "https://readme-stats-lyart-nine.vercel.app/$1",
+        "https://readme-stats-indol-theta.vercel.app/$1",
+        "https://github-readme-stats-five-gules.vercel.app"
     ],
     "backup": [
         "https://github-readme-stats.vercel.app"
