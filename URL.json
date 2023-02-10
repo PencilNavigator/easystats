@@ -22,7 +22,9 @@
         "https://github-readme-stats-eight-theta.vercel.app/$1",
         "https://readme-stats-lyart-nine.vercel.app/$1",
         "https://readme-stats-indol-theta.vercel.app/$1",
-        "https://github-readme-stats-five-gules.vercel.app"
+        "https://github-readme-stats-five-gules.vercel.app",
+        "https://readme-stats-m-chan.vercel.app",
+        "https://readme-stats.nbank.dev"
     ],
     "backup": [
         "https://github-readme-stats.vercel.app"
