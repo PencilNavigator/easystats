@@ -112,4 +112,9 @@ https://github-readme-stats-five-gules.vercel.app
 ``` 
 By Unknown
 
+```
+https://readme-stats-m-chan.vercel.app
+``` 
+By Unknown
+
 ### Thanks to all Github users who kindly provided their link to use!)
