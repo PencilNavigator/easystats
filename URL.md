@@ -1,6 +1,6 @@
 # URL Links for github-readme-stats
 
-#### Links with "Unknown" are collected from the internet with a bot. Links with a Provider are collected from this repository's issue.
+#### Links by "Unknown" are collected by a bot. Links with a Provider are collected from this repository's issue.
 
 ```
 https://acedev003-readme-stats.vercel.app
@@ -124,6 +124,16 @@ By Unknown
 
 ```
 https://github-readme-stats.xaoxuu.com
+``` 
+By Unknown
+
+```
+https://readme-stats.delivery-klad.vercel.app
+``` 
+By Unknown
+
+```
+https://bellomia-readme-stats.vercel.app
 ``` 
 By Unknown
 
