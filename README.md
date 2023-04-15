@@ -13,7 +13,7 @@ Special thanks to [@XIU2](https://github.com/XIU2) who provided the method and s
 
 Check [URL.md](https://github.com/PencilNavigator/readme-stats-URL/blob/master/URL.md) for human readable version.
 
-Check [URL.json](https://gcore.jsdelivr.net/gh/PencilNavigator/readme-stats-URL@master/URL.json) for machine readable version.
+Check [URL.json](https://cdn.jsdelivr.net/gh/PencilNavigator/readme-stats-URL@master/URL.json) for machine readable version.
 
 URL.json is for the Dynamic URL service.
 
