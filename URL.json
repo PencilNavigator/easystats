@@ -25,9 +25,10 @@
         "https://github-readme-stats-five-gules.vercel.app/$1",
         "https://readme-stats-m-chan.vercel.app/$1",
         "https://readme-stats.nbank.dev/$1",
-        "https://github-readme-stats.xaoxuu.com/$1"
-        "https://readme-stats.delivery-klad.vercel.app/$1"
-        "https://bellomia-readme-stats.vercel.app/$1"
+        "https://github-readme-stats.xaoxuu.com/$1",
+        "https://readme-stats.delivery-klad.vercel.app/$1",
+        "https://bellomia-readme-stats.vercel.app/$1",
+        "https://github-readme-stats-two-nu-79.vercel.app/$1"
     ],
     "backup": [
         "https://github-readme-stats.vercel.app/$1"
